@@ -6,4 +6,4 @@ On pourrait utiliser _GitHub Pages_ pour héberger ce contenu. Mais on va plutô
 
 Bon courage :muscle:
 
-PS: "local", "prod", "déployer", tous ces termes sont clairs pour toi :interrobang: :thinking:
+PS: "local", "prod", "déployer", tous ces termes sont clairs pour toi :interrobang: :thinking:gr
